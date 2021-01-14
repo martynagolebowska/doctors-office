@@ -1,0 +1,142 @@
+.logo {
+    color: #199094 !important;
+    font-size:45px;
+}
+
+.border {
+    border: 1px solid red;
+}
+
+header {
+    margin-bottom: 65px;
+    margin-top: 30px;
+}
+
+header p {
+    display:inline;
+}
+nav {
+    text-transform: uppercase;
+    font-weight: 500;
+    background-color: white;
+}
+nav img {
+    margin-bottom: 12px;
+}
+
+.nav-item {
+    padding-right:20px;
+    
+}
+
+.nav-link {
+    color: #199094 !important;
+}
+
+.nav-link:hover,
+.nav-link.active {
+    border-bottom: 2px solid #f54409;
+    margin-bottom: -2px;
+}
+
+.color-1, .color-2, .color-3 {    
+    text-align: center;
+    padding: 24px;
+    color: white;
+}
+
+.color-1{
+    background-color: #add9db;
+}
+.color-2{
+    background-color: #59b9bd;
+}
+.color-3{
+    background-color: #199094;
+}
+
+.color-3 a {
+    color:white;
+}
+
+.sec1 h1 {
+    text-transform: uppercase;
+    font-size: 2rem;
+    color: #199094;
+    padding-bottom: 20px;
+    
+}
+
+.h1Border {
+    border-bottom: 2px solid #f54409; 
+}
+
+.sec1 p {
+    margin-top: 30px;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+
+.sec1 img {
+    box-shadow: 1px 2px 30px rgba(0,0,0, 0.2);
+}
+
+.sec1 a {
+    background-color: #f54409;
+    border: 1px solid #f54409;
+    color: white;
+    padding: 1rem;
+    border-radius: 6px;
+    transition: background 0.5s ease-in-out, color 0.5s ease-in-out;
+    text-transform: uppercase;
+}
+
+.sec1 a:hover {
+    border: 1px solid #f54409;
+    background-color: white;
+    color: #f54409;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #f2f7f7;    
+    color: #199094;
+    text-align: center;
+    margin-top: 100px;
+}
+
+footer h1 {
+    width: 100%;
+    margin: 70px 0;
+}
+
+footer p {
+    width: 100%;
+}
+
+.socket {
+    border-top: .1rem solid #199094;
+    width: 100%;
+}
+
+/*plik about*/
+
+.about-list {
+    list-style: none;
+    padding-left: 0;
+    line-height: 30px;
+}
+
+.listHR {
+    float: left;
+    width: 20px;
+    color: #f54409;
+    border: 1px solid;
+    margin-right: 10px;
+    margin-bottom: 0;
+}
+
+.sec1 h2 {
+    font-size: 25px;
+    color: #f54409;
+}
