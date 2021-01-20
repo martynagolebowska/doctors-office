@@ -185,10 +185,6 @@ footer a {
     color: white;
 }
 
-/*.sec1offer h2 {
-    height: 80px;
-}*/
-
 .sec1offer p {
     line-height: 150%;
 }
@@ -209,6 +205,30 @@ footer a {
     width:80px;
 }
 
+/*Contact page*/
+
+.sec1contact h1 {
+    text-transform: uppercase;
+    font-size: 2rem;
+    color: #199094;
+    padding-bottom: 5px;
+    padding-left: 12px;
+    
+}
+.sec1contact hr{
+    border-top: 2px solid #f54409; 
+    opacity: 1;
+    width: 165px;
+    margin-left: 12px;
+}
+
+.sec1contact h3 {
+   font-weight: 200;
+}
+
+.sec2contact .container-fluid {
+    padding: 0;
+}
 
 /*Media Queries*/
 
