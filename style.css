@@ -243,3 +243,9 @@ footer a {
         height: 80px;
     }
 }
+
+@media (max-width: 991px){
+    .sec1offer h2  {
+        font-size: 26px;
+    }
+}
